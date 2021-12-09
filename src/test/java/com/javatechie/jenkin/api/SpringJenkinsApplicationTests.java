@@ -17,6 +17,6 @@ public class SpringJenkinsApplicationTests {
 	public void contextLoads() {
 		logger.info("Test case Executed.......");
 
-		assertEquals(true, true);
+		assertEquals(true,true);
 	}
 }
