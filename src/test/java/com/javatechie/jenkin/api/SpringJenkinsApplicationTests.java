@@ -19,5 +19,4 @@ public class SpringJenkinsApplicationTests {
 
 		assertEquals(true, true);
 	}
-
 }
