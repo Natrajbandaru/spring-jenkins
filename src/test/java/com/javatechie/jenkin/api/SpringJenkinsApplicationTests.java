@@ -14,7 +14,7 @@ public class SpringJenkinsApplicationTests {
 
 
 	@Test
-	public  contextLoads() {
+	public void contextLoads() {
 		logger.info("Test case Executed.......");
 		logger.info("Test case executing secound log statement........");
 
